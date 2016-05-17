@@ -5,6 +5,13 @@ Programista otide da pie rakia!
 
 ;eodiug;oeiruge;oiugp/l.
 
+<<<<<<< HEAD
+
+HEEEEEEEEEEEEEEEEEELPPPP
+
+iakata rabota
+
+=======
 iakata rabota
 
 tsyk
@@ -12,5 +19,6 @@ tsyk
 
 iskam konflikt da staa
 =======
+>>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
