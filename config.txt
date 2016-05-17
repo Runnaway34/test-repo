@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 Goshko Hubaveca
+=======
+Programista otide da pie rakia!
+
+;eodiug;oeiruge;oiugp/l.
+
+iakata rabota
+
+tsyk
+>>>>>>> origin/master
