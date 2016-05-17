@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+Goshko Hubaveca
+=======
 Programista otide da pie rakia!
 
 ;eodiug;oeiruge;oiugp/l.
@@ -5,5 +8,9 @@ Programista otide da pie rakia!
 iakata rabota
 
 tsyk
+<<<<<<< HEAD
 
 iskam konflikt da staa
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
